@@ -8,7 +8,7 @@ from textbase.message import Message
 
 
 class OpenAI:
-    api_key = None
+    api_key = "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"
 
     @classmethod
     def generate(
